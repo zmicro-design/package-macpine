@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export PACKAGE_CORE_NAME="macpine"
+export PACKAGE_CORE_VERSION=v0.6
+export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/beringresearch/macpine/releases/download"
